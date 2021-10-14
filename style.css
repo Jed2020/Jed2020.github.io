@@ -147,7 +147,7 @@ body {
   }
 
 i {
-  font-size: 150px;
+  font-size: 100px;
 }
 
 .conhecimentos {
@@ -175,18 +175,15 @@ i {
   justify-content: center;
 }
 .contato a {
- margin: 60px;
+ margin: 30px;
  width: 20%;
  text-align: center;
  justify-content: center;
 }
 
-.justify-content-center {
-  justify-content: center !important;
-}
 .footer {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 16px;
+  padding-bottom: 16px;
   background-color: #8B4513;
   color: #fff;
 }
