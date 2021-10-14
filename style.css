@@ -177,6 +177,7 @@ i {
 .contato a {
  margin: 30px;
  width: 20%;
+ text-align: center;
  justify-content: center;
 }
 
