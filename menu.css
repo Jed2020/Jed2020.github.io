@@ -5,10 +5,10 @@ ul {
 a {
   color: white;
   text-decoration: none;
-  font-family: sans-serif;
 }
 a:hover {
-  background: rgba(0, 0, 0, 0.05);
+  color: #CD853F;
+  font-weight: bold;
 }
 #logo {
   font-size: 1.5rem;
