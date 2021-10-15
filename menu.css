@@ -22,6 +22,10 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   background: #8B4513;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 #menu {
     display: flex;
