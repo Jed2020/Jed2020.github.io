@@ -190,6 +190,7 @@ i {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  cursor: pointer;
 }
 .contato a {
  margin: 30px;

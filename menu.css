@@ -40,7 +40,7 @@ a:hover {
   
   @media (max-width: 600px) {
     #menu {
-      display: block;
+      display: block; 
       position: absolute;
       width: 100%;
       top: 70px;
